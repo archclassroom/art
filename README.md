@@ -4,5 +4,5 @@
 
 Sources: 
 
-[Arch Linux official artwork](https://www.archlinux.org/art/)
-[Science and Humanities SVG](https://commons.wikimedia.org/wiki/File:Sciences_humaines.svg)
+* [Arch Linux official artwork](https://www.archlinux.org/art/)
+* [Science and Humanities SVG](https://commons.wikimedia.org/wiki/File:Sciences_humaines.svg)
